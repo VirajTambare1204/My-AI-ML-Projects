@@ -1,0 +1,22 @@
+# --- Backend / API ---
+fastapi==0.111.0
+uvicorn[standard]==0.30.1
+python-multipart==0.0.9
+pydantic==2.7.4
+python-dotenv==1.0.1
+
+# --- Orchestration / RAG ---
+langchain==0.2.6
+langchain-community==0.2.6
+langchain-openai==0.1.13
+
+# --- Vector store & document parsing ---
+chromadb==0.5.3
+pypdf==4.2.0
+
+# --- Numerical (used for embedding-based re-ranking) ---
+numpy==1.26.4
+
+# --- Frontend ---
+streamlit==1.36.0
+requests==2.32.3
