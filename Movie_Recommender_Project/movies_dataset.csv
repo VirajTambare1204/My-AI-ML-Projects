@@ -1,0 +1,11 @@
+movie_id,title,tags,rating,year,poster_url
+1,The Matrix,action sci-fi hackers simulation neo,8.7,1999,https://images.unsplash.com/photo-1626814026160-2237a95fc5a0?w=500&h=750&fit=crop
+2,Inception,action sci-fi dreams thieves mind suspense,8.8,2010,https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=500&h=750&fit=crop
+3,Interstellar,sci-fi space travel time survival,8.6,2014,https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?w=500&h=750&fit=crop
+4,Shutter Island,suspense thriller mystery detective island,8.2,2010,https://images.unsplash.com/photo-1518104593124-ac2eeb9a4ffe?w=500&h=750&fit=crop
+5,Prisoners,suspense thriller crime kidnapping intense,8.1,2013,https://images.unsplash.com/photo-1500674425229-f692875b0ab7?w=500&h=750&fit=crop
+6,Avengers,action superhero marvel team saving world,8.0,2012,https://images.unsplash.com/photo-1608889175123-8ee362201f81?w=500&h=750&fit=crop
+7,Iron Man,action superhero marvel technology suit,7.9,2008,https://images.unsplash.com/photo-1534447677768-be436bb09401?w=500&h=750&fit=crop
+8,Gladiator,action historical rome revenge gladiator,8.5,2000,https://images.unsplash.com/photo-1473280025148-643f9b0cbac2?w=500&h=750&fit=crop
+9,Braveheart,action historical scotland freedom war,8.3,1995,https://images.unsplash.com/photo-1599839619722-39751411ea63?w=500&h=750&fit=crop
+10,Avatar,sci-fi action alien planet graphics,7.9,2009,https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=500&h=750&fit=crop
